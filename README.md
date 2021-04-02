@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/CarlosEsco/Neko"><img src="./.github/readme-images/logo.png" alt="Neko" width="200"></a>
+  <a href="https://github.com/CarlosEsco/Neko"><img src="https://github.com/b0r3dd3v/Neko/blob/master/heppybuhburnmangadex.jpeg" alt="Neko" width="200"></a>
   <br>
   Neko
   <br>
