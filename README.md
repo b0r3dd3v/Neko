@@ -21,7 +21,7 @@
 
 ## Screenshots:
 <p align="center">
-<img src="!https://user-images.githubusercontent.com/44746806/113370468-9e81f480-936c-11eb-9e63-60f72db20614.jpeg)" align="center" height="666" />
+<img src="https://user-images.githubusercontent.com/44746806/113370468-9e81f480-936c-11eb-9e63-60f72db20614.jpeg" align="center" height="666" />
 </p>
 
 ## About:
